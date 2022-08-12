@@ -9,7 +9,7 @@ This repository is to create, update and run selenium tests scripts for buggy ca
 
 [Maven build tool](https://maven.apache.org/download.cgi)
 
-[IntelliJ (IDE)](https://www.jetbrains.com/idea/download/#section=mac [Community Edition])
+[IntelliJ IDE Community Edition](https://www.jetbrains.com/idea/download/#section=mac)
 
 ###Maven dependencies
 
@@ -22,12 +22,18 @@ This repository is to create, update and run selenium tests scripts for buggy ca
  
 ## Instructions:
 Download and Install Java
+
 java -version => should print version
+
 Download and Install Maven (set Java path)
+
 mvn -version => should print version
+
 Install IntelliJ IDE
+
 Import the project
-Open cmd and run "mvn test -Dtest=BuggyCarsTest"
+
+Open cmd and run `mvn test -Dtest=BuggyCarsTest`
 
 The project was built in MAC, to run in windows please update the chromedriver file to .exe file. Also in all paths update the "/" to "\\".
 
