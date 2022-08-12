@@ -2,7 +2,7 @@
 This repository is to create, update and run selenium tests scripts for buggy cars application.
 
 
-Requirements:
+## Requirements:
 Java (min 8)
 Download link - https://www.java.com/en/download/apple.jsp
 Installation guide - https://www.geeksforgeeks.org/how-to-install-java-on-macos/
@@ -16,7 +16,7 @@ TestNG for test runner - https://mvnrepository.com/artifact/org.testng/testng/6.
 JSON for handing inputs - https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple/1.1.1
  
  
-Instructions:
+## Instructions:
 Download and Install Java
 java -version => should print version
 Download and Install Maven (set Java path)
