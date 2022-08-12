@@ -37,7 +37,10 @@ Open cmd and run `mvn test -Dtest=BuggyCarsTest`
 
 
 ###### Note
-The project was built in MAC, to run in windows please update the chromedriver file to .exe file. Also in all paths update the "/" to "\\".
+Please add chromedriver file in src/main/resources/ for both [MAC and Windows](https://chromedriver.chromium.org/downloads)
+Please update the path format for windows from "/" to "\\" in the below files
+main/java/base/driver.java
+test/java/tests/BuggyCarsTest.java
 
 
 ###### Update username:
