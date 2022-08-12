@@ -3,17 +3,14 @@ This repository is to create, update and run selenium tests scripts for buggy ca
 
 
 ## Requirements:
-Java (min 8)
-Download link - https://www.java.com/en/download/apple.jsp
-Installation guide - https://www.geeksforgeeks.org/how-to-install-java-on-macos/
-Maven build tool
-Download link - https://maven.apache.org/download.cgi
-Installation guide - https://maven.apache.org/download.cgi
-IntelliJ (IDE) - https://www.jetbrains.com/idea/download/#section=mac [Community Edition]
-Maven dependencies
-Selenium Webdriver (3.141.59) - https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.141.59
-TestNG for test runner - https://mvnrepository.com/artifact/org.testng/testng/6.14.3
-JSON for handing inputs - https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple/1.1.1
+[Java (min 8)](https://www.java.com/en/download/apple.jsp)
+[Installation guide](https://www.geeksforgeeks.org/how-to-install-java-on-macos/)
+[Maven build tool](https://maven.apache.org/download.cgi)
+[IntelliJ (IDE)](https://www.jetbrains.com/idea/download/#section=mac [Community Edition])
+###Maven dependencies
+[Selenium Webdriver (3.141.59)](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.141.59)
+[TestNG for test runner](https://mvnrepository.com/artifact/org.testng/testng/6.14.3)
+[JSON for handing inputs](https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple/1.1.1)
  
  
 ## Instructions:
