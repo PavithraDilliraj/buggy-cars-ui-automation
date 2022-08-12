@@ -11,7 +11,7 @@ This repository is to create, update and run selenium tests scripts for buggy ca
 
 [IntelliJ IDE Community Edition](https://www.jetbrains.com/idea/download/#section=mac)
 
-###Maven dependencies
+###### Maven dependencies
 
 [Selenium Webdriver (3.141.59)](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/3.141.59)
 
@@ -35,8 +35,10 @@ Import the project
 
 Open cmd and run `mvn test -Dtest=BuggyCarsTest`
 
+
+###### Note
 The project was built in MAC, to run in windows please update the chromedriver file to .exe file. Also in all paths update the "/" to "\\".
 
 
-Update username:
+###### Update username:
 If you are running the test again, please update the "username" field in src/main/resources/data.json
